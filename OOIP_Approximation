@@ -1,0 +1,13 @@
+Let C be cumulative first year production
+
+Production for first month assuming 0.1155 decay rate: C/6.4928692544
+
+3201432400/2400838671=1.333464193=~4/3
+
+OOIP: 4/3 * 1/0.35 * C < OOIP < 4/3 * 1/0.3 * C
+
+Example:
+
+	C = 81,324
+
+	309,805 < OOIP < 361,440 
